@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pablo-Destefani/frontendEnsolvers/static/css/main.e0e73431.css",
+    "main.js": "/Pablo-Destefani/frontendEnsolvers/static/js/main.b38ab7fa.js",
+    "index.html": "/Pablo-Destefani/frontendEnsolvers/index.html",
+    "main.e0e73431.css.map": "/Pablo-Destefani/frontendEnsolvers/static/css/main.e0e73431.css.map",
+    "main.b38ab7fa.js.map": "/Pablo-Destefani/frontendEnsolvers/static/js/main.b38ab7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e73431.css",
+    "static/js/main.b38ab7fa.js"
+  ]
+}
